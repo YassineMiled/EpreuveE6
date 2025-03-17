@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/api/products/route.js", "app/layout.jsx", "app/layout.jsx", "app/products/collier/page.jsx", "app/products/bracelet/page.jsx", "app/products/boucles-oreilles/page.jsx", "app/products/bague/page.jsx", "app/page.jsx"],
   "exclude": ["node_modules"]
 }
