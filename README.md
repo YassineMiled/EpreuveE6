@@ -11,4 +11,6 @@ Générer le client Prisma: npx prisma generate
 
 Synchroniser la base de données: npx prisma db push
 
-Démarrer le serveur: npm run dev# EpreuveE6
+Démarrer le serveur: npm run dev
+
+# EpreuveE6
